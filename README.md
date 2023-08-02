@@ -6,7 +6,7 @@
 - template.json (弓attachable模板) 
 - player.animation_controllers.json bows/ (贴图文件夹) 
 - 其中bows文件夹格式: bows/<bow的id>/所有贴图
-- 将render_controller.zip的内容添加至包中
+- 将controller.zip的内容添加至包中
 
 贴图命名规范: 
 - xxxx_standby (没有拉动的材质)
